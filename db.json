@@ -1,0 +1,15 @@
+{
+    "pacientes": [
+      {
+        "id": 1,
+        "nombre": "guillermo"
+      },
+      {
+        "id": 2,
+        "nombre": "federico"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
